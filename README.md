@@ -1,13 +1,12 @@
-# react-native-slideshow
+# react-native-slideshow-improved
 A quick and easy slideshow for react native but without the undefined and componentwillmount bugs. (Android & iOS)
 
 ![GIF](demo1.gif) ![GIF](demo2.gif)
 
 ## Installation
 
-Not up to date, use the link on npm
 ```bash
-npm install react-native-slideshow --save
+npm install react-native-slideshow-improved --save
 ```
 
 ## Usage
