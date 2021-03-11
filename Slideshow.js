@@ -130,7 +130,7 @@ export default class Slideshow extends Component {
     }
   }
 
-  componentWillMount() {
+  UNSAFE_componentWillMount() {
     const width = this.state.width;
 
     let release = (e, gestureState) => {
