@@ -1,6 +1,6 @@
 {
   "name": "react-native-slideshow-improved",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A quick and easy slideshow for react native based on react-native-slideshow without the bugs",
   "main": "Slideshow.js",
   "scripts": {
